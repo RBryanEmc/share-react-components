@@ -1,17 +1,18 @@
 {
   "name": "share-react-components",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Ejemplo compartir",
   "main": "build/index.js",
   "repository": "https://github.com/RBryanEmc/share-react-components.git",
   "author": "RBryanEmc",
   "license": "MIT",
   "dependencies": {
-    "react": "^17.0.2"
+    "react": "^16.2.0",
+    "share-react-components": "git+ssh://git@github.com:RBryanEmc/share-react-components.git"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0",
+    "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1"
   },
