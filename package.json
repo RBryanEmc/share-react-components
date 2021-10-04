@@ -7,8 +7,7 @@
   "author": "RBryanEmc",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.2.0",
-    "share-react-components": "git+ssh://git@github.com:RBryanEmc/share-react-components.git"
+    "react": "^16.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
